@@ -12,5 +12,9 @@ def multiplicacion(c,d):
 
 result=multiplicacion(5,10)
 print("El resultado es:",result)
+<<<<<<< HEAD
 
 print ("oe")
+=======
+print("Funcionaaaaaaaa")
+>>>>>>> 2c5545c923a0ac5ea7fe61c9a41e7ef16003e3ad
