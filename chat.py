@@ -6,3 +6,4 @@ print("Primera Mezcla Estefania")
 print ("Es una mezcla")
 print("Primera mezcla Reyes")
 print("Esperemos esto se solucione")
+x = [1,2,3,4,5]
