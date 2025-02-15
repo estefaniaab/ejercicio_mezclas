@@ -6,3 +6,5 @@ print("Primera Mezcla Estefania")
 print ("Es una mezcla")
 print("Primera mezcla Reyes")
 print("Esperemos esto se solucione")
+suma=3+2
+print (suma)
