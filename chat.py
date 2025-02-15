@@ -6,6 +6,9 @@ print("Primera Mezcla Estefania")
 print ("Es una mezcla")
 print("Primera mezcla Reyes")
 print("Esperemos esto se solucione")
-suma=3+2
-print (suma)
-x = [1,2,3,4,5]
+
+def multiplicacion(c,d):
+    return c * d
+
+result=multiplicacion(5,10)
+print("El resultado es:",result)
