@@ -20,3 +20,6 @@ print ("Esta es mi ultima mezcla")
 print(3-1)
 
 print("szs")
+
+def hay_un_tablero():
+    pass #No quise hacer un tablero
