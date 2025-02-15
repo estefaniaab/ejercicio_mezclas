@@ -12,3 +12,4 @@ def multiplicacion(c,d):
 
 result=multiplicacion(5,10)
 print("El resultado es:",result)
+print("Funcionaaaaaaaa")
