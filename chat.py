@@ -11,7 +11,13 @@ def multiplicacion(c,d):
     return c * d
 
 result=multiplicacion(5,10)
-print("El resultado es:",result)
+print("El resultado de la multiplicacion es:",result)
+
+def resta(a,b):
+    return a * b
+
+result=resta(4,20)
+print("El resultado de la resta es:",result)
 
 print ("oe")
 print("Funcionaaaaaaaa")
@@ -20,3 +26,5 @@ print ("Esta es mi ultima mezcla")
 print(3-1)
 
 print("szs")
+
+
